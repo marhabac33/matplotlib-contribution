@@ -1,6 +1,6 @@
 # team04-Project
 
-team04 members: [Ian Ferguson](https://github.com/Mr-Ian-Ferguson), [Marhababanu Chariwala](https://github.com/marhabac33), [Ahsan Zia](https://github.com/ziaahsan), [Jubin Patel](https://github.com/PatelJubin), [Mu Xi (Lucy) Xing](https://github.com/LucyXMX)
+team04 members: [Ian Ferguson](https://github.com/Mr-Ian-Ferguson), [Marhababanu Chariwala](https://github.com/marhabac33), [Vladimir Efimov](https://github.com/efimovvl), [Mark Davydov](https://github.com/MarkDavydov), [Mu Xi (Lucy) Xing](https://github.com/LucyXMX)
 
 Contains copy of Matplotlib for testing/demo purposes only, and claims no ownership of Matplotlib or related code.
 
