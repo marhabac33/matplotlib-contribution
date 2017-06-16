@@ -1,0 +1,47 @@
+44/50
+
+Step 1 (5 marks) 5 - well explained in interview.
+• Demonstration of at least 5 bugs.
+• Understanding where each of these bugs is in the code, more or less, or at least understanding
+where one would start investigating.
+
+• Step 2 (30 marks) 24
+• At least two bugs are fixed (correctness). (10 marks) 10
+• Quality and documentation of changes/fixes: no hacks! (5 marks) 5 - excellent!
+• A well-designed and well-explained acceptance test suite. (5 marks) 5
+• Clear evidence of a well-structured development process, good use of the repo and of the selected
+project management tools, etc. (10 marks) 4
+-6, couldn't see documentation of process.
+
+• Presentation and Quality of Writing (5 marks) 5 - excellent
+
+10/10
+
+Deliverable 3 - Step 2 - Interview plan
+
+As before, 2 marks each.
+
+Volunteer 1 - Gets to show you in their repo the location of all the
+modified/new code their team produced in order to fix their two bugs
+(we're making sure everyone knows where everything is)
+
+2
+
+Volunteer 2 - Have this person show you in the repo where the test
+cases are for each bug. Get them to run one or two.
+
+2
+
+Volunteer 3 - Gets to talk about regression testing. Ask them why it's
+needed (chances are some teams didn't even think about it). Ask them
+how their team did regression tests, and whether they have some plan
+in place to ensure it happens every time they change something
+
+2
+
+Volunteer 4 - Explain and demonstrate bugfix #1
+
+2
+
+Volunteer 5 - Explain and demonstrate bugfix #2
+2
