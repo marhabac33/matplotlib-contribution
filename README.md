@@ -2,6 +2,8 @@
 
 team04 members: [Ian Ferguson](https://github.com/Mr-Ian-Ferguson), [Marhababanu Chariwala](https://github.com/marhabac33), [Ahsan Zia](https://github.com/ziaahsan), [Jubin Patel](https://github.com/PatelJubin), [Mu Xi (Lucy) Xing](https://github.com/LucyXMX)
 
+Contains copy of Matplotlib for testing/demo purposes only, and claims no ownership of Matplotlib or related code.
+
 ## Building matplotlib on ubuntu/linux:
 1. Install dependencies:
   * Easiest method is to run: "sudo apt-get build-dep python-matplotlib"
